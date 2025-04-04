@@ -3,16 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Open Source Softworks</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0f0f0f;
-      color: #f0f0f0;
-    }
 
-  </style>
+
 </head>
 <body>
   <header>
@@ -49,7 +41,7 @@
       is fully open for inspection and improvement by anyone.
     </p>
     <p>
-      Built with a TypeScript frontend and Python backend, OSS blends performance and flexibility. 
+      Built with a Lua , OSS blends performance and flexibility. 
       Whether you're a scripter, developer, or casual user, Open Source Softworks provides 
       everything you need to explore and build within Roblox like never before.
     </p>
